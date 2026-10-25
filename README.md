@@ -1,3 +1,5 @@
+パスキーが気になり触ってみたもの。
+
 To install dependencies:
 ```sh
 bun install
@@ -8,4 +10,3 @@ To run:
 bun run dev
 ```
 
-open http://localhost:3000
